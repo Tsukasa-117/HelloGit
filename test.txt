@@ -3,3 +3,4 @@ hello git!
 間の行に入れてみた
 Edit test!
 おしりの行に入れてみた
+branch test!
